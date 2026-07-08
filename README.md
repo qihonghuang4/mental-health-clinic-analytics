@@ -17,6 +17,39 @@ The project examines questions such as:
 - Which concern pairs commonly occur together?
 - How do appointment activity, revenue, and clinical intensity change over time?
 
+## Dashboard Preview
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Executive KPI Summary</h3>
+      <a href="dashboards/executive_kpi_summary.pdf">
+        <img src="images/executive_kpi_summary.png" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Patient Risk Dashboard</h3>
+      <a href="dashboards/patient_risk_dashboard.pdf">
+        <img src="images/patient_risk_dashboard.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Therapist Performance Scorecard</h3>
+      <a href="dashboards/therapist_performance_scorecard.pdf">
+        <img src="images/therapist_performance_scorecard.png" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Clinical Trends</h3>
+      <a href="dashboards/clinical_trends.pdf">
+        <img src="images/clinical_trends.png" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Tools
 
 - MySQL

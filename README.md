@@ -23,28 +23,28 @@ The project examines questions such as:
   <tr>
     <td width="50%">
       <h3>Executive KPI Summary</h3>
-      <a href="dashboards/executive_kpi_summary.pdf">
-        <img src="images/executive_kpi_summary.png" width="100%">
+      <a href="executive_kpi_summary.pdf">
+        <img src="Executive%20KPI%20Summary.png" width="100%">
       </a>
     </td>
     <td width="50%">
       <h3>Patient Risk Dashboard</h3>
-      <a href="dashboards/patient_risk_dashboard.pdf">
-        <img src="images/patient_risk_dashboard.png" width="100%">
+      <a href="patient_risk_dashboard.pdf">
+        <img src="Patient%20Risk.png" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Therapist Performance Scorecard</h3>
-      <a href="dashboards/therapist_performance_scorecard.pdf">
-        <img src="images/therapist_performance_scorecard.png" width="100%">
+      <a href="therapist_performance_scorecard.pdf">
+        <img src="Therapist%20Performance%20Scorecard.png" width="100%">
       </a>
     </td>
     <td width="50%">
       <h3>Clinical Trends</h3>
-      <a href="dashboards/clinical_trends.pdf">
-        <img src="images/clinical_trends.png" width="100%">
+      <a href="clinical_trends.pdf">
+        <img src="Clinical%20Trends.png" width="100%">
       </a>
     </td>
   </tr>
